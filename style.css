@@ -1,0 +1,44 @@
+/*  color for data keyword color    */
+.reversed_key1{
+    color:green;
+}
+
+/*  color for control flow keyword color    */
+.reversed_key2{
+    color:goldenrod;
+}
+
+/*  color for comment   */
+.comment{
+    color:blue;
+}
+
+/*  color for preprocessor directives   */
+.preprocess_dir{
+    color:purple;
+}
+
+/*  color for header file   */
+.header_file{
+    color:red;
+}
+
+/*  color for strings   */
+.string{
+    color:magenta;
+}
+
+/*  color for numberic contact  */
+.numberic_constant{
+    color:brown;
+}
+
+/*  color for ascii character   */
+.ascii_char{
+    color:firebrick;
+}
+
+/*  color for other tokens  */
+.others{
+    color:white;
+}

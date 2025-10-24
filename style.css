@@ -1,0 +1,34 @@
+/*  color for data keyword color    */
+.reversed_key1{
+    color:green;
+}
+
+/*  color for control flow keyword color    */
+.reversed_key2{
+    color:goldenrod;
+}
+
+/*  color for comment   */
+.comment{
+    color:rgb(62, 195, 239);
+}
+
+/*  color for strings   */
+.string{
+    color:magenta;
+}
+
+/*  color for numberic contact  */
+.numberic_constant{
+    color:brown;
+}
+
+/*  color for ascii character   */
+.ascii_char{
+    color:firebrick;
+}
+
+/*  color for other tokens  */
+.others{
+    color:white;
+}
